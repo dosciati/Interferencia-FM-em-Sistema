@@ -1,9 +1,6 @@
 # 📡 Projeto de Correção de Interferência FM em Sistema CFTV Analógico
 
-![Status](https://img.shields.io/badge/status-em%20andamento-yellow)  
-![CFTV](https://img.shields.io/badge/CFTV-analógico-blue)  
-![Infraestrutura](https://img.shields.io/badge/cabeamento-coaxial%20%2B%20UTP%20cat5e-lightgrey)  
-![Licença](https://img.shields.io/badge/licença-MIT-green)
+![Status](https://img.shields.io/badge/status-em%20andamento-yellow)  ![CFTV](https://img.shields.io/badge/CFTV-analógico-blue)  ![Infraestrutura](https://img.shields.io/badge/cabeamento-coaxial%20%2B%20UTP%20cat5e-lightgrey)  ![Licença](https://img.shields.io/badge/licença-MIT-green)
 
 ## 🎯 Objetivo
 Mitigar interferência de **rádio FM (88–108 MHz)** em sistema de **CFTV totalmente analógico**, instalado a **500 m de torre transmissora**, utilizando cabeamento **misto coaxial 75 Ω** e **UTP Cat 5e com vídeo-baluns**.  
